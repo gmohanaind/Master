@@ -1,0 +1,6 @@
+[
+			{ "id": 10, "name": "Beauty and Fashion", "imgUrl": "/Images/BeautyandFashion.jpg" },
+            { "id": 11, "name": "Food and Drink", "imgUrl": "/Images/foodanddrinks.jpg" },
+            { "id": 12, "name": "Health and Fitness", "imgUrl": "/Images/healthandfitness.jpg" },
+            { "id": 13, "name": "Lifestyle", "imgUrl": "/Images/lifestyle.jpg" }
+] 
